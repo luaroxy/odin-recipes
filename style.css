@@ -1,0 +1,34 @@
+.center {
+    text-align: center;
+}
+
+.color {
+    color:green;
+    font-family: cursive ,sans-serif;
+    font-size: 35px;
+}
+
+.image{
+    width: 400px;
+    height: auto;
+}
+
+.title{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    text-align: center;
+    font-size: 35px;
+}
+
+.imagerecipe{
+    width: 300px;
+    height: auto;
+}
+
+
+.return{
+    background-color: brown;
+    color: white;
+    font-size: 20px;
+}
+
